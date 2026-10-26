@@ -1,0 +1,3 @@
+What does CAS actually mean? 
+the entire point is 'WAIT' that RAM makes the CPU after CPU command the RAM for a peice of data
+it happenes when the ADDRESS BUS is sending the command and the data bus is recieving it
